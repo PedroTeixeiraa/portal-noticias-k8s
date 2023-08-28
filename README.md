@@ -7,7 +7,7 @@ Este é o repositório do meu projeto pessoal de estudo inicial sobre Kubernetes
 
 ## Estrutura do Projeto
 O projeto é composto por três principais componentes: o banco de dados, o portal de notícias e o sistema de gerenciamento. Cada componente é implementado usando serviços, pods e ConfigMaps, demonstrando diferentes aspectos do Kubernetes.
-
+![foto3](https://github.com/PedroTeixeiraa/portal-noticias-k8s/assets/54821438/f19d09ca-2bbb-4920-b891-793bf423ae4e)
 ### Banco de Dados (db)
 
 - `configmap.yaml`: Configura as chaves do banco de dados usando um ConfigMap.
